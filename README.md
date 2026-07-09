@@ -62,10 +62,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IRIvey&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRIvey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170" />
+<img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=IRIvey&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170" />
+<img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=IRIvey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=IRIvey&theme=tokyonight&hide_border=true&background=1a1b27" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IRIvey&theme=tokyonight&hide_border=true&background=1a1b27" height="170" />
 
 <br/><br/>
 
