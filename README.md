@@ -65,8 +65,6 @@
 <img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=IRIvey&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170" />
 <img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=IRIvey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=IRIvey&theme=tokyonight&hide_border=true&background=1a1b27" height="170" />
-
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/IRIvey/IRIvey/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
@@ -74,10 +72,6 @@
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IRIvey&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=IRIvey&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="95%" />
 
 </div>
 
